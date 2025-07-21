@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "nexmoefont"; /* Project id 4489658 */
+  src: url('iconfont.woff2?t=1753079059062') format('woff2'),
+       url('iconfont.woff?t=1753079059062') format('woff'),
+       url('iconfont.ttf?t=1753079059062') format('truetype');
+}
+
+.nexmoefont {
+  font-family: "nexmoefont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-a-C:before {
+  content: "\e75f";
+}
+
+.icon-strava:before {
+  content: "\e783";
+}
+
+.icon-gitee1:before {
+  content: "\e610";
+}
+
+.icon-GITEE:before {
+  content: "\e60d";
+}
+
+.icon-gitee:before {
+  content: "\e6a8";
+}
+
+.icon-strava_:before {
+  content: "\eba6";
+}
+
