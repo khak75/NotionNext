@@ -1,0 +1,51 @@
+{
+  "id": "4489658",
+  "name": "blog",
+  "font_family": "nexmoefont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "31202651",
+      "name": "C++",
+      "font_class": "a-C",
+      "unicode": "e75f",
+      "unicode_decimal": 59231
+    },
+    {
+      "icon_id": "11993429",
+      "name": "strava",
+      "font_class": "strava",
+      "unicode": "e783",
+      "unicode_decimal": 59267
+    },
+    {
+      "icon_id": "33568994",
+      "name": "gitee",
+      "font_class": "gitee1",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "26802943",
+      "name": "GITEE",
+      "font_class": "GITEE",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "37273854",
+      "name": "gitee",
+      "font_class": "gitee",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "27270998",
+      "name": "strava_",
+      "font_class": "strava_",
+      "unicode": "eba6",
+      "unicode_decimal": 60326
+    }
+  ]
+}
