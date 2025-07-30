@@ -45,6 +45,29 @@ export function InfoCard(props) {
       {/* 公告栏 */}
       <Announcement post={notice} style={{ color: 'white !important' }} />
 
+      {/* Strava 小部件区域 */}
+      <div className='mt-4 space-y-2'>
+        {/* 活动小部件 */}
+        <iframe
+          height='160'
+          width='100%'
+          frameBorder='0'
+          allowTransparency='true'
+          scrolling='no'
+          src='https://www.strava.com/athletes/130887866/activity-summary/aec3ea054dcec28a3f8d03277669b1fbe8cc7fdd'>
+        </iframe>
+
+        {/* 摘要小部件 */}
+        <iframe
+          height='160'
+          width='100%'
+          frameBorder='0'
+          allowTransparency='true'
+          scrolling='no'
+          src='https://www.strava.com/athletes/130887866/activity-summary/aec3ea054dcec28a3f8d03277669b1fbe8cc7fdd'>
+        </iframe>
+      </div>
+
       <div className='flex justify-between'>
         <div className='flex space-x-3  hover:text-black dark:hover:text-white'>
           {/* 两个社交按钮 */}
