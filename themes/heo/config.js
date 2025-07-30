@@ -55,6 +55,8 @@ const CONFIG = {
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
   HEO_INFO_CARD_TEXT3: '了解更多',
+  HEO_INFO_CARD_URL4: 'https://www.strava.com/athletes/1308878665',
+  HEO_INFO_CARD_ICON4: 'fab fa-strava',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
