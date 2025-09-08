@@ -47,7 +47,7 @@ export function InfoCard(props) {
 
       {/* Strava 小部件区域 */}
       <div className='mt-4 space-y-2'>
-         <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/130887866/latest-rides/aec3ea054dcec28a3f8d03277669b1fbe8cc7fdd'></iframe>
+         <iframe height='160' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/130887866/latest-rides/aec3ea054dcec28a3f8d03277669b1fbe8cc7fdd'></iframe>
       </div>
 
       <div className='flex justify-between'>
